@@ -37,6 +37,8 @@
 #include <string>
 #include <thread>
 
+#define OPENCV_TRAITS_ENABLE_DEPRECATED
+
 namespace image_proc
 {
 
